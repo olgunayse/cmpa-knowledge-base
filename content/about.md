@@ -1,0 +1,3 @@
+# About Me
+
+My name is Ayse, and I am a Computing Applications student at Texas Tech University. Outside of school, I enjoy traveling, photography, and learning about technology. Traveling is one of my favorite hobbies because it allows me to experience new cultures, meet different people, and create memories. A road trip through several European countries inspired my interest in European travel and is the reason I chose this topic for my knowledge base.
