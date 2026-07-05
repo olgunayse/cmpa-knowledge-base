@@ -29,3 +29,9 @@ Switzerland is one of the more expensive countries in Europe, so planning a budg
 ## Related Destinations
 
 If you enjoy mountain landscapes, you may also like [[Dolomites]]. If you're interested in dramatic natural scenery farther north, take a look at [[Lofoten Islands]].
+
+## See Also
+
+- [[Dolomites]]
+- [[Transportation]]
+- [[Budgeting]]

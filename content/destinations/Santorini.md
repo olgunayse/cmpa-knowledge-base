@@ -27,3 +27,9 @@ Santorini is one of Greece's most popular destinations, so booking hotels and tr
 ## Related Destinations
 
 If you enjoy coastal scenery and historic cities, you may also like [[Dubrovnik]]. For travelers who prefer mountain landscapes, [[Switzerland]] offers a completely different but equally beautiful European experience.
+
+## See Also
+
+- [[Dubrovnik]]
+- [[Accommodations]]
+- [[Food and Drink]]

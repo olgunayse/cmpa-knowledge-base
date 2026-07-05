@@ -27,3 +27,9 @@ Comfortable walking shoes are recommended because many streets are made of stone
 ## Related Destinations
 
 If you enjoy beautiful islands and coastal scenery, you may also like [[Santorini]]. If you are looking for dramatic mountain landscapes instead, consider visiting [[Switzerland]].
+
+## See Also
+
+- [[Santorini]]
+- [[Itineraries]]
+- [[Budgeting]]
