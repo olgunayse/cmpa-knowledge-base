@@ -29,10 +29,12 @@ jobs:
           node-version: 22
 
       - name: Install Dependencies
-        run: npm install
+  run: npm install
+  working-directory: quartz
 
-      - name: Build Quartz
-        run: npx quartz build
+- name: Build Quartz
+  run: npx quartz build
+  working-directory: quartz
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
