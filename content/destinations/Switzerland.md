@@ -35,3 +35,12 @@ If you enjoy mountain landscapes, you may also like [[Dolomites]]. If you're int
 - [[Dolomites]]
 - [[Transportation]]
 - [[Budgeting]]
+
+## Gallery
+
+![[assets/Switzerland.jpg]]
+
+## Travel Guide
+
+![[assets/switzerlandguide.pdf]]
+
