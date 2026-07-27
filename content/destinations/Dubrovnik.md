@@ -1,35 +1,32 @@
+---
+title: Dubrovnik
+date: 2026-07-26
+---
 # Dubrovnik
 
 ## Overview
 ![[Dubrovnik.webp]]
-Dubrovnik is a historic coastal city located in southern Croatia along the Adriatic Sea. Often called the "Pearl of the Adriatic," it is famous for its well-preserved medieval walls, stone streets, and stunning waterfront views. The city's Old Town is a UNESCO World Heritage Site and attracts visitors from around the world because of its rich history and beautiful architecture. Dubrovnik has also become well known as a filming location for the television series *Game of Thrones*, making it an exciting destination for both history lovers and fans of the show. With its combination of culture, beaches, and breathtaking scenery, Dubrovnik is one of the most popular destinations in Europe.
 
-## Why Visit
+Dubrovnik is one of those places that seems instantly recognizable, even to people who have never been there. Its historic stone streets, medieval walls, and location along the Adriatic Sea make it very different from many other European destinations. While researching Croatia, Dubrovnik was the city that kept appearing over and over again, and it quickly became one of the places I wanted to learn more about.
 
-Walking along the ancient city walls is one of the best ways to experience Dubrovnik. Visitors can enjoy panoramic views of the Adriatic Sea, explore centuries-old churches and palaces, and relax at nearby beaches after spending time in the historic center. The city also offers fresh seafood, local Croatian cuisine, and boat trips to nearby islands, making it a destination that combines history with outdoor activities.
+## Why I Chose This Destination
 
-### Top Attractions
+I like that Dubrovnik combines history with beautiful coastal scenery. Instead of choosing between a city vacation and a beach destination, it seems possible to experience both in the same place. The city's history also makes it feel very different from destinations that focus mainly on shopping or nightlife.
+
+## Things I Would Want to See
 
 - Dubrovnik Old Town
 - City Walls
-- Lovrijenac Fortress
-- Stradun
-- Lokrum Island
+- Fort Lovrijenac
+- Cable Car
+- Banje Beach
 
-## Best Time to Visit
+## Planning Notes
 
-Late spring and early fall are ideal because the weather is warm, the sea is perfect for swimming, and there are generally fewer tourists than during the busiest summer months.
+Most travel guides recommend visiting outside the busiest summer weeks if possible. That seems like a good way to enjoy the city while avoiding some of the largest crowds.
 
-## Travel Tips
-
-Comfortable walking shoes are recommended because many streets are made of stone and include steep stairways. Visiting popular attractions early in the morning or later in the evening can also help avoid the largest crowds.
-
-## Related Destinations
-
-If you enjoy beautiful islands and coastal scenery, you may also like [[Santorini]]. If you are looking for dramatic mountain landscapes instead, consider visiting [[Switzerland]].
-
-## See Also
+## Related Pages
 
 - [[Santorini]]
-- [[Itineraries]]
-- [[Budgeting]]
+- [[Traditional Foods]]
+- [[7-Day Europe Trip]]
